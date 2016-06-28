@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>太平洋行社</title>
+<!-- TemplateEndEditable -->
+<link href="../css/reset.css" rel="stylesheet" type="text/css">
+<link href="../css/style.css" rel="stylesheet" type="text/css">
+
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="container"><!--最外圍-->
+  <!--連結區-->
+  <header>
+  <span><a href="../about.html">關於我們</a></span>
+  <span><a href="../scenic.html">日本</a></span>
+  <span><a href="#">歐美紐澳</a></span>
+  <span><a href="#">自由行</a></span>
+  <span><a href="#">客製行程</a></span>
+  <span><a href="#">票券</a></span>
+  <span><a href="#">部落格</a></span>
+  <span><a href="../contact.html">聯絡我們</a></span>
+  </header>
+  <!--連結區 end=============-->
+  <!--商標 重點連結-->
+  <nav>
+    <h1 id="logo"><img src="../images/logo.png" alt="太平洋商標" title="太平洋商標"/></h1>
+        <div id="text-shadow"><span title="旅行是夢想的實踐和延伸">旅行是夢想的實踐和延伸</span></div>
+    <!--圓形連結-->
+    <div id="navigation">
+      <div class="circle">
+     <!-- <a href="#"><img src="../images/c01.png" alt=""/></a>-->
+      <a href="#"><img src="../images/c01.png" alt=""/></a>
+      <h4>新品上架</h4>
+      </div>
+      <div class="circle">
+      <a href="#"><img src="../images/c02.png" alt=""/></a>
+      <h4>優惠方案</h4>
+      </div>
+      <div class="circle">
+      <a href="#"><img src="../images/c03.png" alt=""/></a>
+      <h4>期間限定</h4>
+      </div>
+      <div class="circle">
+      <a href="#"><img src="../images/c04.png" alt=""/></a>
+      <h4>推薦行程</h4>
+      </div>
+      <div class="circle">
+      <a href="#"><img src="../images/c08.png" alt=""/></a>
+      <h4>自由行</h4>
+      </div>
+    </div>
+    <!--圓形連結 end-->
+  </nav>
+  <!--商標 重點連結 end-->
+  <main><!-- TemplateBeginEditable name="main" -->新增 main 標籤的內容位於此處<!-- TemplateEndEditable --></main>
+  <footer>
+  <small><p>&copy; 2016 太平洋<br>
+  TEL:02-22228888●FAX:02-88886666
+</p></small>
+  </footer>
+</div>
+
+</body>
+</html>
